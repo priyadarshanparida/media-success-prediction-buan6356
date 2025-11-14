@@ -1,0 +1,52 @@
+# LaTeX / knitr / rmarkdown intermediate files
+_.aux
+_.log
+_.out
+_.toc
+_.fls
+_.fdb_latexmk
+_.synctex.gz
+_.utf8.md
+\*.utf8.Rmd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Python (if present)
+**pycache**/
+_.py[cod]
+_.pyo
+env/
+venv/
+.Python
+pip-wheel-metadata/
+\*.egg-info/
+
+# IDEs / editors
+.vscode/
+.idea/
+_.sublime-project
+_.sublime-workspace
+
+# OS files
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs and temporary files
+
+_.log
+_.tmp
+\*.temp
+tmp/
+temp/
+
+# Misc
+
+_.bak
+_.swp
+\*~
