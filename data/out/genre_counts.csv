@@ -1,0 +1,653 @@
+GENRE,count
+Unknown,4098
+adult standards,3641
+album rock,1849
+dance pop,1601
+contemporary country,1358
+pop,1046
+brill building pop,1025
+rock,1013
+classic soul,995
+r&b,815
+rap,632
+bubblegum pop,379
+disco,370
+atl hip hop,361
+latin,259
+funk,255
+hip hop,247
+alternative metal,242
+dance rock,218
+country,213
+glee club,204
+east coast hip hop,193
+deep adult standards,167
+classic country pop,164
+boy band,156
+chicago soul,155
+alternative rock,154
+canadian pop,148
+blues rock,144
+blues,139
+freestyle,129
+canadian hip hop,125
+chicago rap,124
+doo-wop,108
+arkansas country,107
+classic uk pop,103
+beach music,102
+british invasion,93
+country rock,93
+conscious hip hop,92
+art rock,92
+nashville sound,87
+new wave pop,84
+detroit hip hop,81
+motown,81
+folk,79
+neo mellow,76
+acoustic pop,75
+alternative hip hop,75
+melodic rap,74
+baroque pop,69
+glam rock,69
+australian pop,69
+rhythm and blues,68
+hip pop,65
+classic rock,64
+alternative r&b,64
+american folk revival,64
+soft rock,63
+dirty south rap,61
+mellow gold,59
+europop,59
+classic garage rock,59
+edm,56
+comic,56
+novelty,54
+new jack swing,54
+glam metal,52
+rock-and-roll,51
+g funk,49
+baton rouge rap,47
+deep disco,46
+british soul,45
+australian country,44
+gangster rap,44
+candy pop,44
+idol,44
+art pop,43
+permanent wave,43
+alternative dance,41
+northern soul,41
+florida rap,40
+emo rap,40
+modern rock,40
+christmas instrumental,40
+folk-pop,39
+deep talent show,38
+a cappella,37
+pop rap,37
+indie pop,36
+hollywood,36
+heartland rock,35
+cowboy western,34
+canadian contemporary r&b,34
+barbadian pop,33
+dfw rap,32
+bebop,30
+deep pop r&b,30
+bubblegum dance,30
+emo,30
+reggae fusion,29
+bachata,29
+deep soft rock,29
+irish rock,28
+classic canadian rock,26
+electropop,26
+australian rock,26
+surf music,26
+bronx hip hop,26
+cali rap,26
+diva house,25
+chicano rap,25
+southern soul,25
+post-teen pop,25
+eurodance,25
+classic girl group,25
+easy listening,24
+jazz blues,24
+british folk,24
+outlaw country,24
+canadian country,23
+crunk,23
+appalachian folk,22
+disco house,22
+bossa nova,22
+vocal jazz,22
+big room,21
+broadway,21
+dancehall,21
+hip house,21
+bakersfield sound,21
+alberta country,21
+deep groove house,20
+miami bass,20
+swamp pop,20
+pop rock,20
+quiet storm,20
+australian dance,19
+colombian pop,19
+british blues,19
+louisiana blues,19
+jazz funk,19
+neo soul,19
+sunshine pop,19
+k-pop,19
+lilith,19
+garage rock,18
+hammond organ,18
+girl group,18
+yacht rock,18
+instrumental soul,17
+ccm,17
+deep new americana,17
+jangle pop,17
+rare groove,16
+space age pop,16
+merseybeat,16
+soul,15
+soul jazz,15
+smooth jazz,15
+electro,15
+country rap,15
+nc hip hop,15
+afrobeat,14
+reggae,14
+social media pop,14
+chicago house,14
+banda,14
+pop edm,14
+britpop,14
+classical performance,13
+latin pop,13
+sevdah,13
+antiviral pop,13
+calming instrumental,12
+australian electropop,12
+alternative pop,12
+canadian indie,11
+folk rock,11
+big beat,11
+houston rap,11
+modern folk rock,11
+jump blues,11
+deep motown,11
+gospel,11
+battle rap,11
+lovers rock,10
+canadian folk,10
+deep southern soul,10
+dub,10
+brooklyn drill,10
+philly soul,10
+country road,10
+dance-punk,10
+big band,10
+alternative country,10
+bass trap,10
+hard rock,10
+celtic rock,10
+alternative emo,9
+chicago drill,9
+children s music,9
+memphis soul,9
+comedy,9
+honky tonk,9
+deep southern trap,9
+traditional country,9
+australian talent show,9
+brostep,9
+acid jazz,9
+australian hip hop,9
+dublin indie,9
+jam band,9
+disney,8
+bounce,8
+harlem hip hop,8
+oklahoma country,8
+north carolina hip hop,8
+indie pop rap,8
+alaska indie,8
+classic soundtrack,8
+minneapolis sound,8
+rap kreyol,8
+new jersey rap,8
+chanson,8
+deep northern soul,8
+c86,7
+cosmic american,7
+boston rock,7
+australian alternative rock,7
+new romantic,7
+traditional rockabilly,7
+brit funk,7
+pub rock,7
+canadian electropop,7
+classic italian pop,7
+instrumental surf,7
+canadian latin,7
+bow pop,6
+deep freestyle,6
+anthem worship,6
+truck-driving country,6
+background music,6
+jazz organ,6
+bluegrass,6
+country pop,6
+deep new wave,6
+cowpunk,6
+texas country,6
+dixieland,6
+hi-nrg,6
+dutch house,6
+christian hip hop,6
+modern alternative rock,6
+bahamian pop,6
+ectofolk,6
+vintage swoon,5
+vintage hollywood,5
+new wave,5
+rock steady,5
+movie tunes,5
+canadian psychedelic,5
+lounge,5
+canadian celtic,5
+contemporary vocal jazz,5
+uk reggae,5
+philly rap,5
+canadian singer-songwriter,5
+canadian pop punk,5
+boogaloo,5
+acid house,5
+idol rock,5
+nyc rap,5
+audiophile vocal,5
+classic schlager,5
+bmore,5
+chamber pop,5
+classic swedish pop,5
+indie garage rock,5
+avant-garde jazz,5
+contemporary gospel,5
+pop punk,4
+alt z,4
+memphis hip hop,4
+urban contemporary,4
+celtic,4
+jazz trumpet,4
+gospel r&b,4
+bedroom pop,4
+deep east coast hip hop,4
+ethiopian pop,4
+k-hop,4
+freakbeat,4
+christian relaxative,4
+cabaret,4
+atl trap,4
+chicano punk,4
+escape room,4
+drum and bass,4
+neo-singer-songwriter,4
+trap,4
+psychedelic folk rock,4
+thai pop,4
+italian disco,4
+soul blues,4
+ambient folk,4
+country gospel,4
+modern uplift,4
+theme,4
+grupera,4
+bossa nova jazz,4
+retro electro,4
+christian metal,4
+post-disco,4
+desi pop,4
+fake,3
+clean comedy,3
+e6fi,3
+complextro,3
+modern country rock,3
+power pop,3
+roots rock,3
+afropop,3
+downtempo,3
+cartoon,3
+traditional soul,3
+native american,3
+indie anthem-folk,3
+experimental rock,3
+acoustic blues,3
+funk rock,3
+electronic trap,3
+indie folk,3
+melodic hard rock,3
+dutch pop,3
+southern rock,3
+deep contemporary country,3
+christian indie,3
+early us punk,3
+deep free jazz,3
+bluegrass gospel,3
+nyc pop,3
+neo-synthpop,3
+soda pop,3
+asmr,3
+garage pop,3
+country dawn,3
+parody,3
+deep underground hip hop,3
+show tunes,3
+canadian rock,3
+redneck,3
+hardcore techno,3
+viral trap,3
+french movie tunes,3
+latin christian,3
+scorecore,3
+bubble trance,3
+filmi,3
+orchestral performance,3
+french hip hop,3
+indie poptimism,3
+modern southern rock,3
+alternative pop rock,3
+progressive rock,3
+wu fam,2
+new jack smooth,2
+lds,2
+hawaiian hip hop,2
+canadian ccm,2
+electronica,2
+neo-traditional bluegrass,2
+rockabilly,2
+wind ensemble,2
+german pop,2
+rawstyle,2
+psychedelic rock,2
+folk metal,2
+danish pop,2
+pop reggaeton,2
+boston hip hop,2
+cantautor,2
+desi hip hop,2
+electropowerpop,2
+house,2
+chillhop,2
+operatic pop,2
+brooklyn indie,2
+utah indie,2
+grunge pop,2
+austindie,2
+anthem emo,2
+dark trap,2
+orchestra,2
+classic psychedelic rock,2
+lo-fi beats,2
+belgian pop,2
+hardcore hip hop,2
+contemporary folk,2
+deep progressive trance,2
+swedish pop,2
+deep norteno,2
+tropical house,2
+deep latin christian,2
+scottish new wave,2
+bolero,2
+australian children s music,2
+australian singer-songwriter,2
+traditional scottish folk,2
+meme rap,2
+alternative americana,2
+german jazz,2
+plunder,2
+light music,2
+belgian dance,2
+bboy,2
+miami hip hop,2
+deep melodic hard rock,2
+anti-folk,2
+new americana,2
+kids dance party,2
+funk metal,2
+broken beat,2
+chamber orchestra,2
+kentucky hip hop,2
+future funk,2
+la indie,2
+british choir,2
+enka,2
+jazz orchestra,2
+ohio hip hop,2
+canadian blues,2
+go-go,2
+south african pop,2
+small room,2
+mallet,1
+classical tenor,1
+pinoy praise,1
+rebel blues,1
+dirty texas rap,1
+classic russian rock,1
+mambo,1
+new orleans funk,1
+singaporean pop,1
+progressive psytrance,1
+traditional folk,1
+vapor pop,1
+texas blues,1
+canadian post-rock,1
+dark techno,1
+oi,1
+easycore,1
+canadian punk,1
+new orleans rap,1
+experimental,1
+derby indie,1
+levenslied,1
+p funk,1
+cancion melodica,1
+oslo indie,1
+austropop,1
+screamo,1
+hyphy,1
+no wave,1
+jazz brass,1
+milwaukee hip hop,1
+tribal house,1
+funana,1
+musica per bambini,1
+sertanejo pop,1
+brazilian psychedelic,1
+deep funk house,1
+british comedy,1
+massage,1
+swedish rockabilly,1
+modern downshift,1
+arkansas hip hop,1
+classical cello,1
+albuquerque indie,1
+post-disco soul,1
+german shoegaze,1
+contemporary post-bop,1
+canadian contemporary country,1
+exotica,1
+british jazz,1
+synthpop,1
+jazz vibraphone,1
+midwest americana,1
+spacewave,1
+romantico,1
+chicago indie,1
+classical,1
+moog,1
+classic danish pop,1
+progressive trance,1
+canadian soundtrack,1
+nightcore,1
+futurepop,1
+polka,1
+bassline,1
+acoustic punk,1
+healing,1
+canadian electronic,1
+brass band,1
+estonian hip hop,1
+ambient psychill,1
+progressive house,1
+french indie pop,1
+metal,1
+azonto,1
+comic metal,1
+deathcore,1
+irish singer-songwriter,1
+yodeling,1
+modern blues,1
+brazilian death metal,1
+belgian metal,1
+psychobilly,1
+rap rock,1
+dutch rock,1
+wind quintet,1
+soundtrack,1
+classic eurovision,1
+german rock,1
+belgian rock,1
+dutch r&b,1
+opm,1
+basshall,1
+pop r&b,1
+american post-rock,1
+alt-idol,1
+electro swing,1
+reggaeton,1
+spanish invasion,1
+skiffle,1
+new age,1
+classic j-rock,1
+rif,1
+vintage french electronic,1
+psychedelic blues-rock,1
+k-rap,1
+gospel singers,1
+finnish punk,1
+dutch indie,1
+environmental,1
+jazz trombone,1
+detroit trap,1
+beatlesque,1
+catstep,1
+focus beats,1
+alabama metal,1
+indiecoustica,1
+sydney indie,1
+gabba,1
+british country,1
+bc underground hip hop,1
+metallic hardcore,1
+red dirt,1
+english indie rock,1
+balkan brass,1
+steel guitar,1
+retro soul,1
+sertanejo,1
+christian pop,1
+uk pop,1
+melodic hardcore,1
+metropopolis,1
+post-grunge,1
+german soundtrack,1
+deep smooth jazz,1
+talent show,1
+bass trip,1
+buffalo ny metal,1
+uk alternative hip hop,1
+bhangra,1
+british indie rock,1
+new french touch,1
+nu-metalcore,1
+classic nz pop,1
+southern soul blues,1
+anime,1
+afro house,1
+nerdcore,1
+trap queen,1
+euroska,1
+classic belgian pop,1
+funeral doom,1
+grime,1
+cyberpunk,1
+barbershop,1
+harmonica blues,1
+deep house,1
+native american spiritual,1
+vapor trap,1
+indie rock,1
+deep funk,1
+argentine rock,1
+hyperpop,1
+electronicore,1
+kent indie,1
+swedish alternative rock,1
+east coast reggae,1
+modern blues rock,1
+memphis blues,1
+deep eurodance,1
+uk post-punk,1
+c-pop,1
+deep acoustic pop,1
+banjo,1
+deep punk rock,1
+21st century classical,1
+viral rap,1
+norteno,1
+chinese hip hop,1
+destroy techno,1
+classic norwegian pop,1
+chinese indie,1
+j-ambient,1
+normal indie,1
+vintage italian soundtrack,1
+traditional funk,1
+turntablism,1
+dark post-punk,1
+reggae rock,1
+alabama indie,1
+cumbia,1
+boogie-woogie,1
+gymcore,1
+halloween,1
+progressive uplifting trance,1
+industrial,1
+gypsy jazz,1
+french worship,1
+jazz saxophone,1
+gauze pop,1
+chicago hardcore,1
+belgian experimental,1
+latin hip hop,1
+library music,1
+didgeridoo,1
+deep vocal house,1
+deep classic garage rock,1
+indie singer-songwriter,1
+psychedelic folk,1
+vocal trance,1
+ballroom,1
+french pop,1
+birmingham hip hop,1
+classic opm,1
+alternative roots rock,1
+australian indie,1
+west coast rap,1
