@@ -51,4 +51,6 @@ _.bak
 _.swp
 \*~
 
-*.pptx
+.Rhistory
+.RData
+.Rproj.user/
